@@ -6,7 +6,15 @@
 
 I am [Gaurav](https://www.gauravnlotekar.online/), a developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with a strong interest in Data Engineering and OpenSource technologies. 🎯
 
-I mostly work with BigData and Data Engineering technologies.☁️🚀
+I mostly work on Solving Problems .☁️🚀
+
+<h3 align="left">
+ <abc>
+  
+  <br>
+    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/me.gif" alt="Problem solver GIF" width="500" height="400">
+ </abc>
+</h3> 
 
 
 <p float="left">
@@ -85,7 +93,7 @@ I mostly work with BigData and Data Engineering technologies.☁️🚀
 ### 📫 How to reach me? 
 
   ⦿ Visit my [Website](https://www.gauravnlotekar.online) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/gogi2811/) 👨🏻‍💻 <br>
+  ⦿ Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav-lotekar-57080565/)](https://www.linkedin.com/in/gaurav-lotekar-57080565/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:gauravnlotekar@gmail.com) 💌 <br>
   
 ### 📫 Inspired by  https://github.com/itsksaurabh
