@@ -88,4 +88,4 @@ I mostly work with BigData and Data Engineering technologies.☁️🚀
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/gogi2811/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:gauravnlotekar@gmail.com) 💌 <br>
   
-# 📫 Inspired by  https://www.linkedin.com/in/itksaurabh
+### 📫 Inspired by  https://github.com/itsksaurabh
