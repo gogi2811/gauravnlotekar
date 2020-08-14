@@ -6,15 +6,17 @@
 
 I am [Gaurav](https://www.gauravnlotekar.online/), a developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with a strong interest in Data Engineering and OpenSource technologies. 🎯
 
-I mostly work on Solving Problems .☁️🚀
-
-<h3 align="left">
+<h3 align="center">
  <abc>
   
   <br>
-    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/me.gif" alt="Problem solver GIF" width="500" height="400">
+    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/me.gif" alt="Problem solver GIF" width="500" height="350">
  </abc>
 </h3> 
+
+I mostly work on Solving Problems .☁️🚀
+
+
 
 
 <p float="left">
@@ -40,6 +42,7 @@ I mostly work on Solving Problems .☁️🚀
  </p>
   
 ### Data Engineering
+
 <p float="left">
 <a href="https://hadoop.apache.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/hadoop.gif"  height="75" />
@@ -53,7 +56,7 @@ I mostly work on Solving Problems .☁️🚀
 </p>
 
 ### CSPs
-  
+
  <p float="left">
    <a href="https://aws.amazon.com/" target="_blank" >
       <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/aws.gif"  height="75" />
