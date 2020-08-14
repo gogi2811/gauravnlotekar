@@ -4,9 +4,9 @@
 **gogi2811/gauravnlotekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Gaurav](https://www.gauravnlotekar.online/), a developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯
+I am [Gaurav](https://www.gauravnlotekar.online/), a developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with a strong interest in Data Engineering and OpenSource technologies. 🎯
 
-I mostly work with BigData and Cloud-Native technologies.☁️🚀
+I mostly work with BigData and Data Engineerg technologies.☁️🚀
 
 
 <p float="left">
@@ -28,22 +28,33 @@ I mostly work with BigData and Cloud-Native technologies.☁️🚀
   <a href="https://www.pulumi.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/pulumipus.svg"  height="75" />
   </a>
-  <a href="https://hadoop.apache.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/hadoop.gif"  height="75" />
-  </a>
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/html-css-js.png" height="70" />
-  </a>
+  
  </p>
   
+### Data Engineering
+<p float="left">
+<a href="https://hadoop.apache.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/hadoop.gif"  height="75" />
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/apache-kafka.png"  height="75" />
+  </a>
+   <a href="https://spark.apache.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/spark.png"  height="75" />
+  </a>
+</p>
+
 ### CSPs
   
  <p float="left">
    <a href="https://aws.amazon.com/" target="_blank" >
       <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/aws.gif"  height="75" />
     </a>
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/aws.gif"  height="75" />
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/azure.gif"  height="75" />
+  </a>
+    <a href="https://www.cloudfoundry.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/cf.png"  height="75" />
   </a>
  </p>
   
@@ -56,11 +67,20 @@ I mostly work with BigData and Cloud-Native technologies.☁️🚀
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/prometheus.gif" height="65" />
   </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/influxdata.gif" height="60" />
-  </a>
+
 </p>
 
+### Databases
+  
+ <p float="left">
+  <a href="https://www.mongodb.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/mongo.gif" height="60" />&nbsp;&nbsp;
+  </a>
+  <a href="https://druid.apache.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/druid.jpeg" height="65" />
+  </a>
+
+</p>
 
 ### 📫 How to reach me? 
 
