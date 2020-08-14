@@ -26,7 +26,7 @@ I mostly work with BigData and Cloud-Native technologies.☁️🚀
     <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/terraform.gif" width="120" />
   </a>
   <a href="https://www.pulumi.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/pulumi.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/pulumipus.svg"  height="75" />
   </a>
   <a href="https://hadoop.apache.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/hadoop.gif"  height="75" />
@@ -39,9 +39,9 @@ I mostly work with BigData and Cloud-Native technologies.☁️🚀
 ### CSPs
   
  <p float="left">
-  <a href="https://bit.ly/2W7a91W" target="_blank" >
-    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/do.gif"  height="75" />
-  </a> 
+   <a href="https://aws.amazon.com/" target="_blank" >
+      <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/aws.gif"  height="75" />
+    </a>
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/aws.gif"  height="75" />
   </a>
@@ -61,23 +61,11 @@ I mostly work with BigData and Cloud-Native technologies.☁️🚀
   </a>
 </p>
 
-### Databases
-  
- <p float="left">
-  <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
-  </a>
-  <a href="https://www.timescale.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/tsdb.gif" width="120" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/gogi2811/gogi2811/master/assets/mongo.gif" height="80" />
-  </a>
-</p>
 
 ### 📫 How to reach me? 
 
-  ⦿ Visit my [Website](https://www.kumar-saurabh.com) 🌐 <br>
+  ⦿ Visit my [Website](https://www.gauravnlotekar.online) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/gogi2811/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/gogi2811) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:gogi2811@gmail.com) 💌 <br>
+  ⦿ Shoot Me an [Email](mailto:gauravnlotekar@gmail.com) 💌 <br>
+  
+# 📫 Inspired by  https://www.linkedin.com/in/itksaurabh
