@@ -6,7 +6,7 @@
 
 I am [Gaurav](https://www.gauravnlotekar.online/), a developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with a strong interest in Data Engineering and OpenSource technologies. 🎯
 
-I mostly work with BigData and Data Engineerg technologies.☁️🚀
+I mostly work with BigData and Data Engineering technologies.☁️🚀
 
 
 <p float="left">
